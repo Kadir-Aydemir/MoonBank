@@ -1,0 +1,14 @@
+D:\C# Project\MoonBank\MoonBank\bin\Debug\MoonBank.exe.config
+D:\C# Project\MoonBank\MoonBank\bin\Debug\MoonBank.exe
+D:\C# Project\MoonBank\MoonBank\bin\Debug\MoonBank.pdb
+D:\C# Project\MoonBank\MoonBank\bin\Debug\Guna.UI2.dll
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.csprojAssemblyReference.cache
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.Login.resources
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.MoonBank.resources
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.Properties.Resources.resources
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.csproj.GenerateResource.cache
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.csproj.CoreCompileInputs.cache
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.csproj.CopyComplete
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.exe
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.pdb
+D:\C# Project\MoonBank\MoonBank\obj\Debug\MoonBank.HomeUserControl1.resources
