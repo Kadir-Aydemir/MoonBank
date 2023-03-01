@@ -99,9 +99,9 @@ namespace MoonBank
                     string konu = "RECEIPT";
                     string icerik = "The details of your transaction are attached.\nMoon Bank Inc.";
 
-                    sc.Credentials = new NetworkCredential("aydemirsoftware@gmail.com", "191119ea");
+                    sc.Credentials = new NetworkCredential("xxxx@gmail.com", "xxxx");
                     MailMessage mail = new MailMessage();
-                    mail.From = new MailAddress("aydemirsoftware@gmail.com", "MOON BANK Inc.");
+                    mail.From = new MailAddress("xxxx@gmail.com", "MOON BANK Inc.");
                     mail.To.Add(kime);
                     mail.Subject = konu;
                     mail.IsBodyHtml = true;
